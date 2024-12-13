@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Login With User Authentication - Django
 
 ## Introduction to User Authentication
